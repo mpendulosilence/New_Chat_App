@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../SocketIO-Chat-App-master"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SignIn-SignUp-Form-main"
+	}
+}
